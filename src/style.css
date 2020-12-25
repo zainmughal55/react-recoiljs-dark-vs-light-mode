@@ -1,0 +1,12 @@
+h1,
+p {
+  font-family: Lato;
+}
+body {
+  background: #dadada;
+  color: #3a3a3a;
+}
+.darkMode {
+  background: black;
+  color: white;
+}
